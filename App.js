@@ -581,8 +581,8 @@ context.fillText(welcomeMessage,75,50);
 context.fillText(secondMessage,50,100);
 const context2 = textCanvas2.getContext('2d')
 context2.font = "bold 16px verdana, sans-serif";
-var message2 = "Some day wanna meet you";
-var message3 = "Go on date"
+var message2 = "Some day lets meet and";
+var message3 = "go on date"
 var message4 = "enjoy together"
 var message5 = "lets go once i came there :)"
 context2.textAlign = "start";
