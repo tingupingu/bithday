@@ -1,0 +1,47 @@
+body {
+    background-color: #000;    
+    margin: 0;
+    overflow: hidden;
+    background-repeat: no-repeat;
+  }
+  div{
+      z-index: 12;
+      background-color: "white";
+  }
+  #text {
+      position: absolute;
+      left: 41%;
+      top: 38%;
+      z-index: 10;
+  }
+  #text2 {
+      position: absolute;
+      left: 75%;
+      bottom: 0;
+      z-index: 10;
+  }
+  #text3 {
+      position: absolute;
+      left: 3%;
+      top: 0%;
+      z-index: 10;
+  }
+  #text4 {
+      position: absolute;
+      left: 3%;
+      bottom: 0%;
+      z-index: 10;
+  }
+  #text5 {
+      position: absolute;
+      left: 80%;
+      top: 0%;
+      z-index: 10;
+  }
+#song{
+    position: absolute;
+    left: 40%;
+    bottom: 0%;
+    z-index: 11;
+ opacity: 0.1;
+}
